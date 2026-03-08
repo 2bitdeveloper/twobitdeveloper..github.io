@@ -1,2 +1,2 @@
-# twobitdeveloper..github.io
+# twobitdeveloper.github.io
 Developer Website for app-ads.txt.
